@@ -1,10 +1,10 @@
 # 📌NoteHub API
 <img src="assets/img/notehub-logo.png" alt="NoteHub Logo" width="100%">
 
-## Introdução
+## 📝 Introdução
 **Desafio Proposto:** A startup "NoteHub" está desenvolvendo um aplicativo simples de anotações digitais para estudantes. O aplicativo precisa de uma API backend para armazenar e gerenciar as anotações dos usuários. Como o projeto está em fase inicial, a versão 1.0 trabalhará apenas com anotações, sem sistema de usuários ou categorias complexas.
 
-## API Endpoints
+## 📅 API Endpoints
 | Método HTTP | Endpoint         | Descrição                          |
 |-------------|------------------|------------------------------------|
 | GET         | /notas           | Retorna todas as anotações        |
@@ -76,14 +76,15 @@
 ```http://localhost:4000/notas/4```
 ![alt text](assets/img/delete.png)
 
-## Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 | [<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="60px" style="background-color:transparent;">](https://nodejs.org/) | [<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express Logo" width="50px" style="background-color:transparent;">](https://expressjs.com/) | [<img src="https://www.prisma.io/images/favicon-32x32.png" alt="Prisma Logo" width="30px" style="background-color:transparent;">](https://www.prisma.io/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" width="50px" style="background-color:transparent;">](https://www.sqlite.org/) |
 
 - Node.js
 - Express
 - Prisma
 - SQLite
-## Como Executar
+
+## 📊 Como Executar
 1. Instale as dependências do projeto:
 
 ```bash
@@ -108,5 +109,5 @@ npx prisma migrate dev
 npm run dev
 ```
 
-## Licença
+## 📚Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](./LICENSE) para obter detalhes.
