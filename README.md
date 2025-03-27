@@ -1,5 +1,5 @@
 # 📌NoteHub API
-![NoteHub Logo](./assets/img/notehub-logo.png)
+<img src="assets/img/notehub-logo.png" alt="NoteHub Logo" width="100%">
 
 ## Introdução
 **Desafio Proposto:** A startup "NoteHub" está desenvolvendo um aplicativo simples de anotações digitais para estudantes. O aplicativo precisa de uma API backend para armazenar e gerenciar as anotações dos usuários. Como o projeto está em fase inicial, a versão 1.0 trabalhará apenas com anotações, sem sistema de usuários ou categorias complexas.
