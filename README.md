@@ -34,7 +34,7 @@
     }
 ]
 ```
-![alt text](assets/img/getAll.png)
+![alt text](assets/img/getById.png)
 
 #### GET /notas/{id}
 ```http://localhost:4000/notas/1```
@@ -48,7 +48,7 @@
     "dataAtualizacao": "2021-10-10T00:00:00.000Z"
 }
 ```
-![alt text](assets/img/getByid.png)
+![alt text](assets/img/getAll.png)
 
 #### POST /notas
 ```http://localhost:4000/notas```
