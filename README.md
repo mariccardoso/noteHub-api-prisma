@@ -14,8 +14,12 @@
 | DELETE      | /notas/{id}      | Remove uma anotação específica    |
 
 ## Tecnologias Utilizadas
-[<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="60px">](https://nodejs.org/) | [<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express Logo" width="50px">](https://expressjs.com/) | [<img src="https://www.prisma.io/images/favicon-32x32.png" alt="Prisma Logo" width="30px">](https://www.prisma.io/)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" width="50px">](https://www.sqlite.org/)
+| [<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="60px" style="background-color:transparent;">](https://nodejs.org/) | [<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express Logo" width="50px" style="background-color:transparent;">](https://expressjs.com/) | [<img src="https://www.prisma.io/images/favicon-32x32.png" alt="Prisma Logo" width="30px" style="background-color:transparent;">](https://www.prisma.io/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" width="50px" style="background-color:transparent;">](https://www.sqlite.org/) |
 
+- Node.js
+- Express
+- Prisma
+- SQLite
 ## Como Executar
 1. Instale as dependências do projeto:
 
